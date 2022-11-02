@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">data alumni paskibra</string>
+    <string name="hello_blank_fragment">Hello blank
+fragment</string>
+    <string name="this_activity">Get to Know About </string>
+    <string name="this_activity2">Purna Paskibraka Indonesia</string>
+            <string name="this_activity3">Follow Us!</string>
+    <string name="this_fragment"></string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Tentang</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="name">alumni</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>diaz kharisma</item>
+        <item>aiyon</item>
+        <item>rantika dewi</item>
+        <item>pipin puspita sarii</item>
+        <item>fauzan ghali</item>
+        <item>budi setiawam</item>
+        <item>Fitra syahdana</item>
+        <item>ardila dwi nanda putri</item>
+        <item>tata oktava </item>
+        <item>zan calista</item>
+        <item>caca</item>
+        <item>anton permadi</item>
+        <item>ricky</item>
+        <item>dimas sentosa</item>
+        <item>setiawan budi</item>
+        <item>muhammad genta lambang</item>
+        <item>andreanto pratama</item>
+        <item>Nindi</item>
+        <item>auly putri</item>
+        <item>ridhho pangestu</item>
+        <item>ahmad nando</item>
+        <item>david setiawan</item>
+        <item>andhika</item>
+        <item>Pratama Putra</item>
+        <item>ahmad Anugrah</item>
+        <item>ahmad Ramadhan</item>
+        <item>kharisma putra</item>
+        <item>nur hafif</item>
+        <item>robin sucianto</item>
+        <item>reski</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>20718</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>20718</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2020</item>
+        <item>2020</item>
+        <item>2020</item>
+        <item>2020</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+        <item>@drawable/kosong</item>
+    </integer-array>
+
+</resources>
